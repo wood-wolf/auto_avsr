@@ -1,0 +1,6 @@
+# @package _group_
+defaults:
+  - _self_
+  - visual_backbone: resnet_conformer
+  - audio_backbone: resnet_conformer
+  - language_model: default
